@@ -1,0 +1,25 @@
+{
+  "name": "tech-talk-bower",
+  "version": "0.0.1",
+  "authors": [
+    "Tiago Celestino <tcelestino@gmail.com>"
+  ],
+  "description": "tech talk sobre gerenciador o bower",
+  "keywords": [
+    "bower",
+    "front-end",
+    "tech-talk"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/tcelestino/tech-talk-bower",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2"
+  }
+}
